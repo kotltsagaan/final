@@ -1,0 +1,259 @@
+
+/*
+ end nav duusjiinaaaaaaaaa
+*/
+.bg {
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+.career .position {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 40px;
+    column-gap: 40px;
+}
+.career h2{
+    color: #0D1317;
+    font-size: 48px;
+}
+.career h4 {
+    margin-bottom: 8px;
+    color: #0D1317;
+    font-size: 24px;
+    line-height: 30px;
+}
+.career p{
+    margin-bottom: 32px ;
+    color: #394149;
+    font-size: 18px;
+    line-height: 28px;
+}
+.career a{
+    margin: 0;
+    color: #F58A07;
+    font-size: 18px;
+    line-height: 19px;
+}
+.box {
+    background-color: rgba(193, 228, 255, 0.3);;
+    width: 400px;
+    height: 180px;
+    border-radius: 20px;
+    padding-left: 40px;
+}
+.career {
+    margin: 128px auto;
+}
+.header .text a{
+    color: white;
+}
+/*
+
+*/
+.zai {
+    margin-bottom: 38px;
+    margin-top: 90px;
+}
+.header{
+    margin-top: 108px;
+}
+.header .bg {
+    display: flex;
+    align-items: center;
+}
+.header h2{
+    color: #1D3444;
+    font-size: 64px;
+    width: 100%;
+    line-height: 72px;
+    margin: 0;
+}
+.header p{
+    color: #5B5B5B;
+    font-size: 18px;
+    width: 70%;
+    line-height: 30px;
+}
+.header button{
+    font-size: 16px;
+    color: white;
+    width: 171px;
+    height: 54px;
+    background-color: #F58A07;
+    border: none;
+    border-radius: 27px;
+    margin-top: 32px;
+}
+.header .image {
+    position: relative;
+}
+.header .color {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30%;
+    height: 98.7%;
+    background-color: #F58A07;
+    mix-blend-mode: multiply;
+    border-radius: 20px 0 0 20px;
+}
+/*---------- Header ends here ----------
+*/
+
+/* -------------- 7 section ends here------------- 
+*/
+.eight{
+    width: 100%;
+    height: 820px;
+    background-color: #DCEAF5;
+}
+.eight h2{
+    color: #0D1317;
+    font-size: 48px;
+    padding-top: 96px;
+}
+.eight .content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.eight .blog {
+    width: 31%;
+    background-color: white;
+    border-radius: 20px;
+    height: 550px;
+    
+}
+.blog img {
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+.blog h3{
+    margin-left: 40px;
+    color: #0D1317;
+    font-size: 24px;
+    width: 90%;
+}
+.blog p{
+    margin-left: 40px;
+    color: #5B5B5B;
+    font-size: 18px;
+    width: 90%;
+}
+.blog a{
+    margin-left: 40px;
+    color: #F58A07;
+    font-size: 16px;
+    width: 90%;
+}
+.blog a::after{
+    content: "\2192";
+    color: #F58A07;
+    font-size: 18px;
+    width: 90%;
+    margin-left: 10px;
+}
+/* ------------------------- footer starts from here
+*/
+footer {
+    position: relative;
+    color: white;
+    margin: 0;
+    background-color: #063255;
+}
+footer .bg{
+    width: 100%;
+    display: flex;
+    padding-top: 80px;
+}
+footer h1{
+    width: 80%;
+}
+footer .column1{
+    width: 40%;
+}
+footer .column2, footer .column3{
+    width: 20%;
+}
+footer .column1 .logo{
+    width: 120px;
+    height: 27px;
+}
+footer .icon {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+footer p{
+    width: 100%;
+    margin: 80px 0;
+}
+footer .column2 h2 {
+    margin: 0;
+    font-size: 18px;
+}
+footer .column3 h2 {
+    margin: 0;
+    font-size: 18px;
+}
+footer .column4 h2 {
+    margin: 0;
+    font-size: 18px;
+}
+footer a{
+    color: white;
+}
+footer ul{
+    list-style-type: none;
+    padding: 0;
+}
+footer li {
+    padding-bottom: 16px;
+    font-size: 16px;
+}
+#input {
+    margin-top: 24px;
+    display: block;
+    width: 342px;
+    height: 54px;
+    border-radius: 31px;
+    border: none;
+    color: black;
+    font-size: 24px;
+    padding-left: 30px;
+}
+footer button {
+    font-size: 18px;
+    color: white;
+    margin-top: 16px;
+    background-color: #F58A07;
+    width: 156px;
+    height: 54px;
+    border-radius: 31px;
+    border: none;
+    box-shadow: -1px 0 1 1px black;
+}
+#box1{
+    position: absolute;
+    width: 53px;
+    height: 144px;
+    background-color: #F58A07;
+    border-radius: 0 20px 0 0;
+    bottom: 0;
+    left: 0px;
+}
+#box2{
+    position: absolute;
+    width: 53px;
+    height: 287px;
+    background-color: #F58A07;
+    border-radius: 20px 0 0 20px;
+    top: 38px;
+    right: 0px;
+}
+.sections {
+    width: 1376px;
+    max-width: 1376;
+    margin: auto;
+}

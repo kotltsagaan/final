@@ -1,0 +1,392 @@
+
+/*
+ end nav duusjiinaaaaaaaaa
+*/
+.zai {
+    margin-bottom: 38px;
+    margin-top: 90px;
+}
+.header{
+    margin-top: 108px;
+}
+.header .bg {
+    display: flex;
+    align-items: center;
+}
+.header h2{
+    color: #1D3444;
+    font-size: 64px;
+    width: 80%;
+    line-height: 72px;
+}
+.header p{
+    color: #5B5B5B;
+    font-size: 18px;
+    width: 70%;
+    line-height: 30px;
+}
+.header button{
+    font-size: 16px;
+    color: white;
+    width: 171px;
+    height: 54px;
+    background-color: #F58A07;
+    border: none;
+    border-radius: 27px;
+    margin-top: 32px;
+}
+.header .image {
+    position: relative;
+}
+.header .color {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30%;
+    height: 98.7%;
+    background-color: #F58A07;
+    mix-blend-mode: multiply;
+    border-radius: 20px 0 0 20px;
+}
+/*---------- Header ends here ----------
+*/
+.feature h2 {
+    font-size: 48px;
+    color: #0D1317;
+    width: 80%;
+}
+.feature p{
+    color: #5B5B5B;
+    font-size: 18px;
+    width: 88%;
+}
+.feature1 p {
+    width: 95%;
+}
+.feature1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.feature1 .text {
+    padding-left: 76px;
+}
+.feature1 ul{
+    padding-left: 0px;
+}
+.feature1 li {
+    margin-bottom: 8px;
+    list-style: inside;
+}
+/*
+-------------------------- Feature 1 ends here
+*/
+.feature2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/*
+asfgjajskkahsflasklhflakshgfkashglfkhasklg
+*/
+.feature3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.feature3 .text{
+    padding-left: 76px;
+}
+.feature3 ul {
+    padding-left: 0;
+}
+.feature3 li {
+    margin-bottom: 8px;
+    list-style: inside;
+}
+/* ------------------- Feature 3 ends here -----------
+*/
+.feature4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.feature5{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.feature5 .text{
+    padding-left: 76px;
+}
+.feature5 ul {
+    padding-left: 0;
+}
+.feature5 li {
+    margin-bottom: 8px;
+    list-style: inside;
+}
+/* --------------------------------- All Features end here----------
+*/
+.bg{
+    width: 100%;
+    margin: auto;
+    max-width: 1280px;
+}
+
+/* First section ends here
+*/
+
+.seven .bg{
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    justify-content: space-between;
+    height: 501px;
+    align-items: center;
+}
+.seven h2{
+    color: #0D1317;
+    font-size: 48px;
+    width: 75%;
+    line-height: 56px;
+}
+.seven .left p{
+    color: #5B5B5B;
+    font-size: 18px;
+    width: 70%;
+}
+.seven .left .profile {
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+    margin-top: 50px;
+    align-items: center;
+}
+.profile img {
+    width: 80px;
+    height: 80px;
+}
+.profile h3{
+    color: #063255;
+    font-size: 24px;
+    margin: 0;
+}
+.profile h4{
+    color: #F58A07;
+    font-size: 18px;
+    margin: 0;
+}
+.seven .play {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+}
+.play img{
+    
+    border: 17px solid white;
+    background-color: white;
+    border-radius: 50%;
+    width: 51px;
+    height: 51px;
+} 
+.seven .right {
+    position: relative;
+}
+.play p{
+    color: white;
+    font-size: 18px;
+}
+.play {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+}
+/* -------------- 7 section ends here------------- 
+*/
+.eight{
+    width: 100%;
+    height: 820px;
+    background-color: #DCEAF5;
+}
+.eight h2{
+    color: #0D1317;
+    font-size: 48px;
+    padding-top: 96px;
+}
+.eight .content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.eight .blog {
+    width: 31%;
+    background-color: white;
+    border-radius: 20px;
+    height: 550px;
+    
+}
+.blog img {
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+.blog h3{
+    margin-left: 40px;
+    color: #0D1317;
+    font-size: 24px;
+    width: 90%;
+}
+.blog p{
+    margin-left: 40px;
+    color: #5B5B5B;
+    font-size: 18px;
+    width: 90%;
+}
+.blog a{
+    margin-left: 40px;
+    color: #F58A07;
+    font-size: 16px;
+    width: 90%;
+}
+.blog a::after{
+    content: "\2192";
+    color: #F58A07;
+    font-size: 18px;
+    width: 90%;
+    margin-left: 10px;
+}
+/* ------------------------- footer starts from here
+*/
+footer {
+    position: relative;
+    color: white;
+    margin: 0;
+    background-color: #063255;
+}
+footer .bg{
+    width: 100%;
+    display: flex;
+    padding-top: 80px;
+}
+footer h1{
+    width: 80%;
+}
+footer .column1{
+    width: 40%;
+}
+footer .column2, footer .column3{
+    width: 20%;
+}
+footer .column1 .logo{
+    width: 120px;
+    height: 27px;
+}
+footer .icon {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+footer p{
+    width: 100%;
+    margin: 80px 0;
+}
+footer .column2 h2 {
+    margin: 0;
+    font-size: 18px;
+}
+footer .column3 h2 {
+    margin: 0;
+    font-size: 18px;
+}
+footer .column4 h2 {
+    margin: 0;
+    font-size: 18px;
+}
+footer a{
+    color: white;
+}
+footer ul{
+    list-style-type: none;
+    padding: 0;
+}
+footer li {
+    padding-bottom: 16px;
+    font-size: 16px;
+}
+#input {
+    margin-top: 24px;
+    display: block;
+    width: 342px;
+    height: 54px;
+    border-radius: 31px;
+    border: none;
+    color: black;
+    font-size: 24px;
+    padding-left: 30px;
+}
+footer button {
+    font-size: 18px;
+    color: white;
+    margin-top: 16px;
+    background-color: #F58A07;
+    width: 156px;
+    height: 54px;
+    border-radius: 31px;
+    border: none;
+    box-shadow: -1px 0 1 1px black;
+}
+#box1{
+    position: absolute;
+    width: 53px;
+    height: 144px;
+    background-color: #F58A07;
+    border-radius: 0 20px 0 0;
+    bottom: 0;
+    left: 0px;
+}
+#box2{
+    position: absolute;
+    width: 53px;
+    height: 287px;
+    background-color: #F58A07;
+    border-radius: 20px 0 0 20px;
+    top: 38px;
+    right: 0px;
+}
+.sections {
+    width: 1376px;
+    max-width: 1376;
+    margin: auto;
+}
+.sections {
+    position: relative;
+}
+.orange{
+    width: 95px;
+    height: 97px;
+    background-color: #F58A07;
+    border-radius: 20px;
+    position: absolute;
+    mix-blend-mode: multiply;
+}
+.orange1 {
+    left: 1px;
+    top: 128px;
+}
+.orange2 {
+    left: 1281px;
+    top: 950px;
+}
+.orange3 {
+    left: 1px;
+    top: 1573px;
+}
+.orange4 {
+    left: 1281px;
+    top: 2306px;
+}
+.orange5 {
+    left: 1px;
+    top: 3054px;
+}
